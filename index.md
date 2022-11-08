@@ -1,10 +1,10 @@
 -----------------------------------------------------------------------------
-github  : https://github.com/Katsuyuki-Karasawa/keyboard-meetup 
+github  : https://github.com/Katsuyuki-Karasawa/casual-markdown-page/
 title   : キーボードミートアップ資料 
 style   : #header { background: RoyalBlue } // additional style, optional
 menu    :    
   Home            : index.md
-  キー部2%カード    : 2%.md
+  md-to-2%        : keybu-2percent.md
   [DarkMode]      : javascript:darkmode()
 -----------------------------------------------------------------------------
 
