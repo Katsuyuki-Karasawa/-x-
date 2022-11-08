@@ -4,7 +4,7 @@ title   : キーボードミートアップ資料
 style   : #header { background: RoyalBlue } // additional style, optional
 menu    :    
   Home            : index.md
-  キー部2%        : /sources/説明用シート@キー部2%.pdf
+  キー部2%カード    : 2%.md
   [DarkMode]      : javascript:darkmode()
 -----------------------------------------------------------------------------
 
