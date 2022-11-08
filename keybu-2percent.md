@@ -1,1 +1,0 @@
-![2%-card](/sources/2percent/keyboard-card.png)
