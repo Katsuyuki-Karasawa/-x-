@@ -10,5 +10,8 @@ menu    :
 
 ## キー部
 
-### 1% 未参加
-### 2% [2022-11-12](/md-sources/keybu-2percent.md)
+### 1%
+未参加
+
+### 2%
+[2022-11-12](/keybu-2percent.md)
